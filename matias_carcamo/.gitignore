@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Local database files
+storage/data/
+
+# Environment variables and local secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime files
+*.pid
+*.pid.lock
+
+# Coverage and test output
+coverage/
+.nyc_output/
+
+# Build output
+dist/
+build/
+
+# Cache directories
+.cache/
+.pnpm-store/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+._*
+
+# Editor directories
+.idea/
+.vscode/
