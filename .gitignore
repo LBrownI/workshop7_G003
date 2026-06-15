@@ -1,0 +1,12 @@
+# Dependencias de Node
+node_modules/
+Diego_Vargas/node_modules/
+
+# Carpeta de almacenamiento local de MongoDB
+storage/
+Diego_Vargas/storage/
+
+# Archivos temporales y del sistema
+._*
+.DS_Store
+Thumbs.db
