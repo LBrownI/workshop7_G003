@@ -6,7 +6,9 @@ Por petición expresa del profesor Cristhian Aguilera cualquier entrega realizad
 
 **Diego Vargas** subió .gitignore fuera de su carpeta de trabajo. Mmmm...
 
-Pull Request de **Julian Herrera** no respeta la estructura de carpetas (nombre_apellido), se descontarán 5 puntos.
+Pull Request de **Julian Herrera**, **Diego Alvarez** y **Maximiliano Hurtado** no respetan la estructura de carpetas (nombre_apellido), se les descontarán 5 puntos.
+
+**Maximiliano Hurtado** subió carpeta node_modules a repositorio. Descuento de 5 puntos.
 
 
 
